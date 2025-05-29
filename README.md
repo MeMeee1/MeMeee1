@@ -12,9 +12,6 @@
 Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, currently bringing fun ideas to life with **Unity**. I’m not just about coding—I’m also a huge **bookworm**, and I’m always cooking up ideas for websites that blend tech with creativity.
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-</div>
 
 ### 🛠️ Currently Working On
 - 🧠 **Crazy Ludo** – A fun Ludo game with power-ups, hazards, and different game modes!  

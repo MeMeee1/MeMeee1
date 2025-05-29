@@ -11,16 +11,21 @@
 ### 💫 About Me
 Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, currently bringing fun ideas to life with **Unity**. I’m not just about coding—I’m also a huge **bookworm**, and I’m always cooking up ideas for websites that blend tech with creativity.
 
----
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5d3o1azk3bDF3NWhvMmx3dm95bW83MW0yc2phM2Y0cTIwZGN3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5f0S0mTcVKbm/giphy.gif" width="250"/>
 </div>
+
+---
 
 ### 🛠️ Currently Working On
 - 🧠 **Crazy Ludo** – A fun Ludo game with power-ups, hazards, and different game modes!  
 - 💼 **Gamers Nook** – A site for all things gaming: merch, game news, and gamer communities.  
 - 📖 Learning more about **mobile development** (React Native CLI, Expo)  
 - 📈 Diving deep into **data analysis** (Excel, SQL, Power BI, Python—you name it!)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</div>
 
 ---
 
@@ -80,7 +85,7 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpWYr/giphy.gif" width="300"/>
   <br/>
   <strong>Let’s make cool stuff together! 🚀</strong>
 </div>

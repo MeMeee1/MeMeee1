@@ -37,6 +37,9 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
 | [🎲 Crazy Ludo](https://play.google.com/store/apps/details?id=com.maliyo.crazyludo&pcampaignid=web_share) | A powerful, competitive Ludo game built in Unity with fun twists! |
+|[🧮 React Calculator(https://ysabelreactcalculator.netlify.app/)]|	A stylish calculator built with React – clean and responsive!|
+|[📖 Bible App(https://ysabelbibleapp.netlify.app/)]|	A minimalist Bible app for reading and reflection – mobile-ready.|
+|[🧠 Dictionary App(https://ysabeldictionaryapp.netlify.app/) ]|	A smart dictionary app that fetches meanings via API.|
 
 ---
 

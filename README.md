@@ -11,13 +11,21 @@
 ### 💫 About Me
 Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, currently bringing fun ideas to life with **Unity**. I’m not just about coding—I’m also a huge **bookworm**, and I’m always cooking up ideas for websites that blend tech with creativity.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5d3o1azk3bDF3NWhvMmx3dm95bW83MW0yc2phM2Y0cTIwZGN3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5f0S0mTcVKbm/giphy.gif" width="250"/>
+</div>
+
 ---
 
-### 🛠️ Currently Working On:
-- 🧠 **Crazy Ludo** – A fun Ludo game with power-ups, hazards, and different game mode!  
+### 🛠️ Currently Working On
+- 🧠 **Crazy Ludo** – A fun Ludo game with power-ups, hazards, and different game modes!  
 - 💼 **Gamers Nook** – A site for all things gaming: merch, game news, and gamer communities.  
-- 📖 Learning more about **mobile developmentt** (React Native CLI, Expo) 
-- 📈 Learning more about **data analysis** (Excel, SQL, Power BI, Python—you name it!)
+- 📖 Learning more about **mobile development** (React Native CLI, Expo)  
+- 📈 Diving deep into **data analysis** (Excel, SQL, Power BI, Python—you name it!)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</div>
 
 ---
 
@@ -34,17 +42,20 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 ### 🌟 Featured Projects:
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
-| [🎲 Crazy Ludo ](https://play.google.com/store/apps/details?id=com.maliyo.crazyludo&pcampaignid=web_share) | A powerful, competitive Ludo game built in Unity with a fun twists! |
+| [🎲 Crazy Ludo](https://play.google.com/store/apps/details?id=com.maliyo.crazyludo&pcampaignid=web_share) | A powerful, competitive Ludo game built in Unity with fun twists! |
 
 ---
 
-### 📚 Fun Facts
-- I love reading novels more than I love sleeping (true story).
-- I once built a mobile app that enables me to get the weather in my current location
-- I dream of making the coolest games that blend fun and strategy.
-- I have a *thing* for aesthetic UIs 🌸
+### 📚 Fun Facts:
+- I love reading novels more than I love sleeping (true story). 📖💤
+- I once built a mobile app that tells you the weather in your location ☁️🌤️
+- I dream of making the coolest games that blend fun and strategy. 🎯
+- I have a *thing* for aesthetic UIs 🌸✨
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/l41lUeephLMA1h5W4/giphy.gif" width="200"/>
+</div>
+
 ---
 
 ### 🔤 Languages I Use Often
@@ -59,14 +70,17 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeMeee1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeMeee1&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
 ### 📫 Let's Connect!
- - Itch.io: https://memeee.itch.io/
- - Medium: https://medium.com/@ykatchy
- - LinkedIn: https://www.linkedin.com/in/ysabel-katchy/
+<p align="center">
+  <a href="https://memeee.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-black?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+  <a href="https://medium.com/@ykatchy"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ysabel-katchy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 

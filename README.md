@@ -14,43 +14,42 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 ---
 
 ### 🛠️ Currently Working On:
-- 🧠 **Ludo Showdown** – A spicy multiplayer Ludo game with power-ups, stats, timers, and more!  
+- 🧠 **Crazy Ludo** – A fun Ludo game with power-ups, hazards, and different game mode!  
 - 💼 **Gamers Nook** – A site for all things gaming: merch, game news, and gamer communities.  
-- 📖 A **book club platform** to discuss novels and connect with fellow readers.  
+- 📖 Learning more about **mobile developmentt** (React Native CLI, Expo) 
 - 📈 Learning more about **data analysis** (Excel, SQL, Power BI, Python—you name it!)
 
 ---
 
 ### 💡 My Superpowers:
 - 🎮 Unity Game Development (2D/3D)
-- 🌐 Web Design with WordPress & Wix
+- 🌐 Web Development
 - 🗃️ Database skills with MySQL & PL/SQL
 - 📊 Data Analysis with Excel, Python, and Tableau
 - ✨ Creative thinker & project starter!
+- 📱 Mobile Development
 
 ---
 
 ### 🌟 Featured Projects:
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
-| [🎲 Ludo Showdown](https://github.com/MeMeee1/ludo-showdown) | A powerful, competitive Ludo game built in Unity with multiplayer mechanics and fun twists! |
-| [📖 Gamers Nook](https://gamersnook.com) | A hub for gamers to shop, explore game news, and vibe together. |
-| [📚 Novel News Site (Coming Soon!)](https://github.com/MeMeee1) | Stay tuned for the coolest novel releases and book reviews! |
+| [🎲 Crazy Ludo ](https://play.google.com/store/apps/details?id=com.maliyo.crazyludo&pcampaignid=web_share) | A powerful, competitive Ludo game built in Unity with a fun twists! |
 
 ---
 
 ### 📚 Fun Facts
 - I love reading novels more than I love sleeping (true story).
-- I once built a dice animation that bounces, lands, and flies back!
+- I once built a mobile app that enables me to get the weather in my current location
 - I dream of making the coolest games that blend fun and strategy.
 - I have a *thing* for aesthetic UIs 🌸
 
 ---
 
 ### 📫 Let's Connect!
-- 📧 Email: ysabelkatchy@gmail.com
-- 🐦 Twitter: [@YsabelCodes](https://twitter.com/YsabelCodes)
-- 🌍 Portfolio: [https://ysabelkatchy.dev](https://ysabelkatchy.dev) _(coming soon!)_
+ - Itch.io: https://memeee.itch.io/
+ - Medium: https://medium.com/@ykatchy
+ - LinkedIn: https://www.linkedin.com/in/ysabel-katchy/
 
 ---
 

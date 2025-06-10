@@ -37,9 +37,13 @@ Hey hey! I'm **Ysabel**, a passionate **game developer** from **Nigeria**, curre
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
 | [🎲 Crazy Ludo](https://play.google.com/store/apps/details?id=com.maliyo.crazyludo&pcampaignid=web_share) | A powerful, competitive Ludo game built in Unity with fun twists! |
-|[🧮 React Calculator(https://ysabelreactcalculator.netlify.app/)]|	A stylish calculator built with React – clean and responsive!|
-|[📖 Bible App(https://ysabelbibleapp.netlify.app/)]|	A minimalist Bible app for reading and reflection – mobile-ready.|
-|[🧠 Dictionary App(https://ysabeldictionaryapp.netlify.app/) ]|	A smart dictionary app that fetches meanings via API.|
+|[🧮 React Calculator](https://ysabelreactcalculator.netlify.app/)|	A stylish calculator built with React – clean and responsive!|
+|[📖 Bible App](https://ysabelbibleapp.netlify.app/)|	A minimalist Bible app for reading and reflection – mobile-ready.|
+|[🧠 Dictionary App](https://ysabeldictionaryapp.netlify.app/)|	A smart dictionary app that fetches meanings via API.|
+|[☁️Weather App](https://github.com/MeMeee1/ExpoWeatherApp)| An app created with expo that shows the current weather and future forecast based on current location|
+|[🔍Code Scanner App](https://github.com/MeMeee1/Code-Scanner-Expo-App)|An app created with expo that scans various codes(qr,barcode,e.t.c)|
+|[📝Note App](https://github.com/MeMeee1/ExpoNotesApp)|An app created with expo that allows a user to store their notes(jottings).. sotres using asyncstorage|
+
 
 ---
 

@@ -2,15 +2,7 @@
 
 Software engineer based in Nigeria, building toward data science and data engineering. I ship mobile and web products, and I work with data in Python, SQL, and BI tools.
 
-Currently focused on **React Native (Expo)**, **data analysis**, and the foundations of **data science and data engineering** (Python, SQL, Excel, Power BI, Tableau).
-
-## Focus
-
-- **Software engineering** — mobile apps with Expo and React Native, and web apps with React
-- **Data analysis** — reporting and exploration in Python, SQL, Excel, Power BI, and Tableau
-- **Data science** — learning statistical analysis and modeling in Python
-- **Data engineering** — learning how data is stored, queried, and moved, starting from SQL and relational databases
-- **Databases** — MySQL and PL/SQL
+Currently focused on **React Native (Expo)**, **data analysis**, and  **data science and data engineering**
 
 ## Stack
 
@@ -18,7 +10,8 @@ Currently focused on **React Native (Expo)**, **data analysis**, and the foundat
 
 **Mobile & web:** React Native, Expo, React, HTML, CSS
 
-**Data:** Python, SQL, Excel, Power BI, Tableau, MySQL, PL/SQL
+**Data:** Python, SQL, Excel, Power BI, Tableau, MySQL, PL/SQL, dbt, snowflake, databricks
+**Cloud:** AWS
 
 **Also:** Unity (2D/3D)
 
@@ -46,17 +39,6 @@ Fun games I made in the past.
 | [Kewa's Fashion: Dress Up Game](https://play.google.com/store/apps/details?id=com.maliyo.kewaboutique) | Dress-up and styling game. |
 
 **itch.io** — [memeee.itch.io](https://memeee.itch.io/)
-
-| Game | What it is |
-| --- | --- |
-| [Juju Siege](https://memeee.itch.io/juju-siege) | 3D shooter: aim a witch’s staff and clear enemy waves with limited potions. |
-| [Memory Game](https://memeee.itch.io/) | Flip cards, remember positions, and match pairs. |
-
-## Now
-
-- Mobile development with React Native CLI and Expo
-- Data analysis with Excel, SQL, Power BI, and Python
-- Data science and data engineering: statistics, modeling, and how data is stored and queried
 
 ## Contact
 
